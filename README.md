@@ -22,7 +22,7 @@ The dates stored within the deadline and launched_at columns use Unix timestamps
 •	Created a new column named Date Ended Conversion that will use this formula to convert the data contained within deadline into Excel's date format.
 
 SHEET 4:
-•	Pivot table with a column of state, rows of Date Created Conversion, values based on the count of state, and filters based on parent category and Years.
+•	Pivot table with a column of state, rows of Date Created Conversion, values based on the count of state, and filters based on parent category and years.
 •	created a pivot chart line graph that visualizes this new table.
 
 
