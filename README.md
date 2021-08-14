@@ -1,7 +1,7 @@
 Kickstart My Chart
 
 BACKGROUND:
-For this project, I organized and analyzed a database of 4,000 past projects in order to uncover any hidden trends in $ 2 billion Kickstarter funds.  Using the Excel table provided, modify and analyze the data of 4,000 past Kickstarter projects as I attempt to uncover some market trends..
+For this project, I organized and analyzed a database of 4,000 past projects in order to uncover any hidden trends in $ 2 billion Kickstarter funds.  Using the Excel table provided, modify and analyze the data of 4,000 past Kickstarter projects as I attempt to uncover some market trends.
 
 SHEET 1:
 •	Used conditional formatting to fill each cell in the state column with a different color, depending on whether the associated campaign was successful, failed, or canceled, or is currently live.
